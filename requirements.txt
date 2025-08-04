@@ -1,0 +1,12 @@
+# Requirements para o projeto Calculadora Python
+# Criado como parte do teste de integração MCP com GitHub
+
+# Biblioteca padrão do Python - não precisa instalar
+# math - módulo matemático para funções como sqrt()
+
+# Python 3.x (versão mínima recomendada)
+# O projeto utiliza apenas bibliotecas padrão do Python
+# Não são necessárias dependências externas
+
+# Para executar o projeto:
+# python calculadora.py 
